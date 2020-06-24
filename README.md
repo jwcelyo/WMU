@@ -1,17 +1,18 @@
 # WMU - Wake Me Up 
 
     # Support OS
-           Linux
-           MacOs
-           Windows 
+         Linux
+         MacOs
+         Windows 
 
     # Monitor
          Ping Host
          TCP. Host
          UDP. Host 
+         Http/Https Host
 
     # Alert 
-          Telegram 
+         Telegram 
 
     # Requisits 
-          .Net Core 2.1
+         .Net Core 2.1
